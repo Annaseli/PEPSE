@@ -7,10 +7,7 @@ Uses Object Oriented Programming
 
 ##########################################################################################
 
-=============================
-=      File description     =
-=============================
-
+Files description:   
 src/pepse/util/ColorSupplier.java - Provides procedurally-generated colors around a pivot.
 src/pepse/world/daynight/Night.java -  The class represents darkens the entire window.
 src/pepse/world/daynight/Sun.java -  The class represents the sun - moves across the sky in an elliptical path.
