@@ -5,7 +5,7 @@ Simulator of an avatar in a world that can jump, run and stand.
 
 Uses Object Oriented Programming
 
-##########################################################################################
+##################################################################################################################
 
 Files description:   
 src/pepse/util/ColorSupplier.java - Provides procedurally-generated colors around a pivot.
